@@ -5,9 +5,13 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalStructures", "ConditionalStructures\ConditionalStructures.csproj", "{DBB7F6C4-7178-4A75-9A97-A43D9FF347DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcellentResult", "ConditionalStatementsLab\ExcellentResult.csproj", "{68D76C08-D471-4C48-9D92-B58A9AA7793C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcellentResult", "ConditionalStatementsLab\ExcellentResult.csproj", "{68D76C08-D471-4C48-9D92-B58A9AA7793C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggerNumber", "BiggerNumber\BiggerNumber.csproj", "{781BCC76-9024-4AD2-8216-70D8EC4C7CB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiggerNumber", "BiggerNumber\BiggerNumber.csproj", "{781BCC76-9024-4AD2-8216-70D8EC4C7CB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGuess", "PasswordGuess\PasswordGuess.csproj", "{EE5B4149-4A6F-49C7-BD59-53DB502F33CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number100_200", "Number100_200\Number100_200.csproj", "{3C8E3B86-E655-41E8-A071-4922F798AD89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{781BCC76-9024-4AD2-8216-70D8EC4C7CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{781BCC76-9024-4AD2-8216-70D8EC4C7CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{781BCC76-9024-4AD2-8216-70D8EC4C7CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5B4149-4A6F-49C7-BD59-53DB502F33CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5B4149-4A6F-49C7-BD59-53DB502F33CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5B4149-4A6F-49C7-BD59-53DB502F33CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5B4149-4A6F-49C7-BD59-53DB502F33CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8E3B86-E655-41E8-A071-4922F798AD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8E3B86-E655-41E8-A071-4922F798AD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8E3B86-E655-41E8-A071-4922F798AD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8E3B86-E655-41E8-A071-4922F798AD89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
